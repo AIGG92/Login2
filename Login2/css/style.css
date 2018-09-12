@@ -1,0 +1,38 @@
+header{
+  background-color: #1a1646;
+  color: #ccd6d9;
+  padding: 35px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+}
+form{
+  padding-top: 30px;
+  line-height: 30px;
+}
+#formLogin{
+  font-size: 30px;
+}
+#h2{
+  color: #1a1646;
+  font-style: italic;
+  font-size: 20px;
+  font-family: cursive;
+}
+input{
+  width:170px;
+  height: 20px;
+  border: 2px solid #1a1646;
+}
+button{
+  color: white;
+  background: #1a1646;
+  height: 30px;
+}
+a{
+  color: #1a1646;
+  text-decoration: none;
+}
+li{
+  color: #1a1646;
+  text-decoration: none;
+}
